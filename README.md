@@ -15,7 +15,8 @@ This project implements steganography to securely hide data inside an image usin
 - **Algorithm Used**: LSB (Least Significant Bit) steganography
 
 ## Installation
-Make sure you have Python 3.x installed. Then, install the OpenCV library:
-  ```pip install opencv-python```
+Make sure you have Python 3.x installed. Then, install the OpenCV library using this command
+```bash
+bash pip install opencv-python
 
 
