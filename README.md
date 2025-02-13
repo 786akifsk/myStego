@@ -2,7 +2,6 @@
 
 ## Introduction
 This project implements steganography to securely hide data inside an image using the Least Significant Bit (LSB) technique. It ensures confidential communication without raising suspicion.
-
 ## Features
 - ✅ **Secure Data Hiding**: Uses LSB technique to embed text inside an image.
 - ✅ **Data Extraction**: Ability to extract hidden data from the stego image.
