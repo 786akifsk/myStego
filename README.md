@@ -26,7 +26,7 @@ pip install opencv-python
 
 ## Contact
 For any queries, reach out via:
-📧 Email: akifsk007@gmail.com
-🔗 GitHub: https://github.com/786akifsk
+- 📧 Email: akifsk007@gmail.com
+- 🔗 GitHub: https://github.com/786akifsk
 
 
