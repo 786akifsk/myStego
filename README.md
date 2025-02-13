@@ -20,13 +20,13 @@ Make sure you have Python 3.x installed. Then, install the OpenCV library using 
 pip install opencv-python
 ```
 
-##Future Enhancements
+## Future Enhancements
 - Implementing more advanced steganography techniques
 - Developing a GUI for better usability
 
-##Contact
+## Contact
 For any queries, reach out via:
-📧 Email: [akifsk007@gmail.com]
-🔗 GitHub: [https://github.com/786akifsk]
+📧 Email: akifsk007@gmail.com
+🔗 GitHub: https://github.com/786akifsk
 
 
