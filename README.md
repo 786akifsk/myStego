@@ -17,6 +17,6 @@ This project implements steganography to securely hide data inside an image usin
 ## Installation
 Make sure you have Python 3.x installed. Then, install the OpenCV library using this command
 ```bash
-bash pip install opencv-python
+pip install opencv-python
 
 
